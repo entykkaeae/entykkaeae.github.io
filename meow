@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <img src="furby.jpg" class="img-circle" alt="Furby" width="40" height="35">
+        <img src="meow.jpg" class="img-circle" alt="Furby" width="40" height="35">
         <p>meow</p>
     </body>
 </html>
